@@ -194,6 +194,5 @@ JOIN (SELECT c.city_name,
 ```
 
 
-Primary and Secondary Insights Using Power BI:https://shorturl.at/u4r1e
 
 
